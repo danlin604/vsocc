@@ -1,0 +1,23 @@
+Questions for VSOCC
+
+Database
+	Contacts
+	MySQL?
+
+Contacts
+	Email
+	Phone
+	Contact PDF have no phone numbers
+
+PDF
+	Are they static?
+	If static, can we transfer them directly to html pages?
+
+Market Place
+	Is it just to advertise coupon code VSOCC?
+
+Family Programs
+	Is it just an event calendar?
+	Database related?
+	More to come?
+
