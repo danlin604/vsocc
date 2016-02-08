@@ -1,0 +1,9 @@
+Reminders of stuff I need to do/learn:
+
+Create child-theme for web site
+Link wp-db data to azure-db data
+Hide menu items/pages from user groups
+Clean up tyler moore php code in functions.php
+Improve user login, registration, and profile info pages
+Create php pages that query data from azure
+Lock down pages for wp-members
