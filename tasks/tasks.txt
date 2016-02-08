@@ -7,3 +7,4 @@ Clean up tyler moore php code in functions.php
 Improve user login, registration, and profile info pages
 Create php pages that query data from azure
 Lock down pages for wp-members
+Create template pages for wordpress 
