@@ -1,6 +1,10 @@
 Reminders of stuff I need to do/learn:
 
-Create child-theme for web site
+	Create child-theme for web site
+		Did not succeed
+
+Modify Parent theme to prevent update
+
 Link wp-db data to azure-db data
 Hide menu items/pages from user groups
 Clean up tyler moore php code in functions.php
